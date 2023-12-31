@@ -11,7 +11,7 @@ if [ -f "LuckyProxy" ]; then
     sleep 1
     echo -e "${GREEN}Getting proxy...${ENDCOLOR}"
 fi
-wget -q https://github.com/AyamNubCh/AnchProxy/raw/main/LuckyProxy
+wget -q https://github.com/sulsyh/StarAndro/raw/main/LuckyProxy
 sleep 1
 echo -e "${GREEN}Proxy Installed${ENDCOLOR}"
 echo -e "${GREEN}Execute proxy with this command: ./proxy${ENDCOLOR}"
